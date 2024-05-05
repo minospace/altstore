@@ -1,0 +1,49 @@
+{
+    "name": "Freeprogramming",
+    "subtitle": "Apps made by a young dev who makes apps for fun, and totaly free!",
+    "description": "all my apps I make worthy for publishing (: !",
+    "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OctoSource.png",
+    "headerURL": "https://www.mediafire.com/view/3as8u6zazjrx1dk/FreeprogrammingLOGO.jpeg/file",
+    "website": "",
+    "tintColor": "#001D25",
+    "featuredApps": [],
+    "apps": [
+        {
+            "name": "mytext",
+            "bundleIdentifier": "Freeprogramming.ios.mytext",
+            "developerName": "miro",
+            "subtitle": "a free note taking app!",
+            "localizedDescription": "a free note taking app with userfriendly animations and UI, all files are saved on your device!",
+            "iconURL": "https://www.mediafire.com/view/gkgymfryz984hye/AppIcon%257Eios-marketing.png/file",
+            "tintColor": "#013BFF",
+            "category": "utilities",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "1.0",
+                    "date": "2024-05-05",
+                    "size": 220,
+                    "downloadURL": "https://www.mediafire.com/file/bvklau2n4sat3by/mytext.ipa/file",
+                    "localizedDescription": "first release!"
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [],
+                "privacy": {}
+            }
+        }
+    ],
+    "news": [
+        {
+            "title": "New App!",
+            "identifier": "release",
+            "caption": "Introducing mytext!",
+            "date": "2024-05-10",
+            "tintColor": "#013BFF",
+            "imageURL": "",
+            "notify": true,
+            "url": "",
+            "appID": "Freeprogramming.ios.mytext"
+        }
+    ]
+}
